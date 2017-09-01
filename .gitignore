@@ -1,7 +1,7 @@
 *.bak
-*.pdf
 *.aux
 *.blg
 *.log
 *.gz
 *.bbl
+*.sav
